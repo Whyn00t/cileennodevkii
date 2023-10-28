@@ -17,5 +17,5 @@
 
 
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
-| --- | :-: |![](./img/cpp.png)
+| --- | :-: |(./img/cpp.png)
 | ... | ... |
