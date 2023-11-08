@@ -19,3 +19,5 @@
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
 | --- | :-: |
 | [3.Титаник](./Contest-4/3/3.cpp) | ![](./img/cpp.png) |
+| ... | ... |
+| [4.Титаник](./Contest-4/3/4.cpp) | ![](./img/cpp.png) |
