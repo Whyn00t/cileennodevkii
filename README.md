@@ -18,4 +18,4 @@
 
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
 | --- | :-: |
-| [3.Титаник] (./Contest 4/3/3.cpp) | ![](./img/cpp.png) |
+| [3.Титаник](./Contest 4/3/3.cpp) | ![](./img/cpp.png) |
